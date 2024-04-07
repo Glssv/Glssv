@@ -16,6 +16,18 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&layout=compact&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Most Used Languages">
 </div>
 
+### Minhas skills
+![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
+![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
+![JavaScript](https://img.shields.io/badge/JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=001117)
+
+
+### Estudando no momento
+![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
+![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
+![JavaScript](https://img.shields.io/badge/JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=001117)
+
+
 <div align="center">
   <a href="mailto:graciellessv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A84E02?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gracielle-souza-6a464926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
