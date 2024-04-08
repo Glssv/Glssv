@@ -7,7 +7,7 @@
 </p>
 
 <div>
-  <p>Me chamo Gracielle Souza, Sou apenas uma pobre princesa do campo que mora no interior de Recife, que tem 23 aninhos, é mãe de um gato (que não gosta de mim), pansexual e desenvolvedora Back-End. Porém, estou me aventurando pela área do Front-End também. Já concluí todos os 3 módulos do Guanabara, mas estou revendo tudo novamente para relembrar e obter certificados e conhecimentos através do Estudonauta. O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirada nisso, eu sempre dou um toquezinho meu nos exercicios e desafios hihi &#x1F497;
+  <p>Me chamo Gracielle Souza, Sou apenas uma pobre princesa do campo que mora no interior de Recife, que tem 23 aninhos, é mãe de um gato (que não gosta de mim), pansexual e desenvolvedora Back-End. Porém, estou me aventurando pela área do Front-End também. Já completei todos os três módulos do Guanabara e estou atualmente trabalhando nos demais. Além disso, estou revisando todo o conteúdo para reforçar meu aprendizado e obter certificações e conhecimentos adicionais através do Estudonauta. O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirada nisso, eu sempre dou um toquezinho meu nos exercicios e desafios hihi &#x1F497;
 </p>
 </div>
 
