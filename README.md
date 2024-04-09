@@ -25,7 +25,6 @@
 ### Estudando no momento
 ![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
 ![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
-![JavaScript](https://img.shields.io/badge/JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=001117)
 ![PHP](https://img.shields.io/badge/PHP-001117?style=for-the-badge&logo=php&logoColor=8892BF&color=001117)
 
 <div align="center">
