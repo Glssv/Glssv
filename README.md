@@ -7,7 +7,7 @@
 </p>
 
 <div>
-  <p>Me chamo Gracielle Souza, Sou apenas uma pobre princesa do campo que mora no interior de Recife, que tem 23 aninhos, é mãe de um gato (que não gosta de mim), pansexual e desenvolvedora Back-End. Porém, estou me aventurando pela área do Front-End também. Já completei todos os três módulos do Guanabara e estou atualmente trabalhando nos demais. Além disso, estou revisando todo o conteúdo para reforçar meu aprendizado e obter certificados e conhecimentos adicionais através do Estudonauta. O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirada nisso, eu sempre dou um toquezinho meu nos exercicios e desafios hihi &#x1F497;
+  <p>Me chamo Gracielle Souza, Sou apenas uma pobre princesa do campo que mora no interior de Recife, que tem 23 aninhos, é mãe de um gato (que não gosta de mim), pansexual e desenvolvedora Back-End. Porém, estou me aventurando pela área do Front-End também. Completei todos os módulos de desenvolvimento web oferecidos pelo Guanabara e atualmente estou aprofundando meus conhecimentos com outros cursos, como o de JavaScript, que já finalizei uma vez e estou refazendo para reforçar meu aprendizado e além disso, obter certificados e conhecimentos adicionais. O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirada nisso, eu sempre dou um toquezinho meu nos exercicios e desafios hihi &#x1F497;
 </p>
 </div>
 
@@ -19,13 +19,11 @@
 ### Minhas skills
 ![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
 ![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
-![JavaScript](https://img.shields.io/badge/JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=001117)
+![PHP](https://img.shields.io/badge/PHP-001117?style=for-the-badge&logo=php&logoColor=8892BF&color=001117)
 
 
 ### Estudando no momento
-![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
-![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
-![PHP](https://img.shields.io/badge/PHP-001117?style=for-the-badge&logo=php&logoColor=8892BF&color=001117)
+![JavaScript](https://img.shields.io/badge/JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=001117)
 
 <div align="center">
   <a href="mailto:graciellessv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A84E02?style=for-the-badge&logo=gmail&logoColor=white"></a>
