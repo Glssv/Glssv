@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff779e">
 
 <div>
-  <p> Oi, me chamo Gracielle Souza, tenho 24 anos e sou de pernambuco. Minha jornada na tecnologia começou com o curso em vídeo do Gustavo Guanabara. Depois, me aprofundei no Back-End com o curso da Reprograma e, logo depois, me aventurei no Front-End com o Estudonalta, onde completei todos os módulos de HTML, CSS e JavaScript. Agora, estou me aprofundando ainda mais com um curso FullStack na Udemy. Sou apaixonada por aprender coisas novas e estou sempre em busca de desafios que me permitam aplicar o que aprendi e evoluir cada vez mais como desenvolvedora! 🥰
+  <p> Oi, eu me chamo Gracielle Souza, tenho 24 anos e sou de pernambuco. Minha jornada na tecnologia começou com o curso em vídeo do Gustavo Guanabara. Depois, me aprofundei no Back-End com o curso da Reprograma e, logo depois, me aventurei no Front-End com o Estudonalta, onde completei todos os módulos de HTML, CSS e JavaScript. Agora, estou me aprofundando ainda mais com um curso FullStack na Udemy. Sou apaixonada por aprender coisas novas e estou sempre em busca de desafios que me permitam aplicar o que aprendi e evoluir cada vez mais como desenvolvedora! 🥰
 </p>
 </div>
  
@@ -34,3 +34,9 @@
   <p align="center"> <img src="https://profile-counter.glitch.me/{Glssv}/count.svg"> </p>
 <br>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake.svg" >
+</picture>
