@@ -1,20 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff779e">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4992&pause=987&color=ff779e&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!++Meu+nome+%C3%A9+Gracielle+Souza;Tenho+23+anos+e+sou+desenvolvedora" />
-  </a>
-</p>
-
 <div>
-  <p>Me chamo Gracielle Souza, Sou apenas uma pobre princesa do campo que mora no interior de Recife, que tem 23 aninhos, é mãe de um gato (que não gosta de mim), pansexual e desenvolvedora Back-End. Porém, estou me aventurando pela área do Front-End também. Completei todos os módulos de desenvolvimento web oferecidos pelo Guanabara e atualmente estou aprofundando meus conhecimentos com outros cursos, como o de JavaScript, que já finalizei uma vez e estou refazendo para reforçar meu aprendizado e além disso, obter certificados e conhecimentos adicionais. O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirada nisso, eu sempre dou um toquezinho meu nos exercicios e desafios hihi &#x1F497;
+  <p> Oi, me chamo Gracielle Souza, tenho 24 anos e sou de pernambuco. Minha jornada na tecnologia começou com o curso em vídeo do Gustavo Guanabara. Depois, me aprofundei no Back-End com o curso da Reprograma e, logo depois, me aventurei no Front-End com o Estudonalta, onde completei todos os módulos de HTML, CSS e JavaScript. Agora, estou me aprofundando ainda mais com um curso FullStack na Udemy. Sou apaixonada por aprender coisas novas e estou sempre em busca de desafios que me permitam aplicar o que aprendi e evoluir cada vez mais como desenvolvedora! 🥰
 </p>
 </div>
-
+ 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&hide_border=true&title_color=CB3876&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&layout=compact&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Most Used Languages">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=cb387e&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
 </div>
+
 
 ### Minhas skills
 ![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
