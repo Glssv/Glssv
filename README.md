@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff779e">
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=cb387e&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8A" alt="Typing SVG">
+  </a>
+</div>
+
 <div>
   <p> Oi, eu me chamo Gracielle Souza, tenho 24 anos e sou de pernambuco. Minha jornada na tecnologia começou com o curso em vídeo do Gustavo Guanabara. Depois, me aprofundei no Back-End com o curso da Reprograma e, logo depois, me aventurei no Front-End com o Estudonalta, onde completei todos os módulos de HTML, CSS e JavaScript. Agora, estou me aprofundando ainda mais com um curso FullStack na Udemy. Sou apaixonada por aprender coisas novas e estou sempre em busca de desafios que me permitam aplicar o que aprendi e evoluir cada vez mais como desenvolvedora! 🥰
 </p>
