@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff779e">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ff779e">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,12 +8,15 @@
 
 ---
 
-Olá! Eu me chamo Gracielle Souza, tenho 25 anos, sou de Pernambuco e sou apaixonada por tecnologia! Minha jornada começou com cursos de HTML, CSS e JavaScript, explorando desde conceitos básicos até a criação de layouts interativos e responsivos. Hoje, estou me aprofundando em Full Stack pela Udemy, aplicando meus conhecimentos em projetos práticos.
+<p> 
+Eu me chamo Gracielle Souza, tenho 25 anos, sou de Pernambuco e sou apaixonada por tecnologia! Minha jornada começou com cursos de HTML, CSS e JavaScript, explorando desde conceitos básicos até a criação de layouts interativos e responsivos. Hoje, estou me aprofundando em Full Stack pela Udemy, aplicando meus conhecimentos em projetos práticos.
 
 
 Além de programar, compartilho meu conhecimento por meio de **mentorias individuais para mulheres iniciantes no front-end**, ajudando a tornar a tecnologia mais inclusiva. Mentorar me fez perceber como é gratificante **ver a evolução delas, acompanhar suas conquistas, ouvir suas dúvidas e ajudá-las a colocar projetos em prática**, além de desenvolver um olhar crítico sobre soluções de front-end.
 
 Estou sempre explorando projetos de diferentes níveis de complexidade e fortalecendo minhas habilidades técnicas e de resolução de problemas. 💻
+
+</p>
 
 ---
 
@@ -27,16 +30,10 @@ Estou sempre explorando projetos de diferentes níveis de complexidade e fortale
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%"> <img src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=cb387e&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
-      </td>
-      <td width="33%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
-      </td>
-      <td width="33%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glssv&theme=dracula&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="GitHub Streak">
-        </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=cb387e&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glssv&theme=dracula&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="GitHub Streak">
 </div>
 
 <div align="center">
@@ -45,11 +42,12 @@ Estou sempre explorando projetos de diferentes níveis de complexidade e fortale
   <a href="https://www.linkedin.com/in/gracielle-souza-6a464926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff779e&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ff779e&section=footer">
 
