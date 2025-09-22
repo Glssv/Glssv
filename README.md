@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ff779e">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=b9acfb">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=cb387e&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8A" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fe68a5&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8A" alt="Typing SVG">
   </a>
 </div>
 
@@ -18,8 +18,6 @@ Estou sempre explorando projetos de diferentes níveis de complexidade e fortale
 
 </p>
 
----
-
 ### Minhas Skills
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,13 +25,16 @@ Estou sempre explorando projetos de diferentes níveis de complexidade e fortale
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=glssv&bg_color=0d1117&color=47349f&line=7366ec&point=fd916c&area=true&title_color=dd5796&hide_border=true)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=cb387e&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glssv&theme=dracula&hide_border=true&title_color=CB3876&text_color=98E3DE&bg_color=0d1117" alt="GitHub Streak">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Glssv&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=dd5796&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Gracielle Souza github stats">
+  
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glssv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=dd5796&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
+  
 </div>
 
 <div align="center">
@@ -42,12 +43,6 @@ Estou sempre explorando projetos de diferentes níveis de complexidade e fortale
   <a href="https://www.linkedin.com/in/gracielle-souza-6a464926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glssv/glssv/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ff779e&section=footer">
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=b9acfb&section=footer">
 
