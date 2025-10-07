@@ -9,10 +9,11 @@
 ---
 
 <p> 
-Eu me chamo Gracielle Souza, tenho 25 anos, sou de Pernambuco e sou apaixonada por tecnologia! Minha jornada começou com cursos de HTML, CSS e JavaScript, explorando desde conceitos básicos até a criação de layouts interativos e responsivos. Hoje, estou me aprofundando em Full Stack pela Udemy, aplicando meus conhecimentos em projetos práticos.
+  
+Eu me chamo Gracielle Souza, tenho 25 anos, sou de Pernambuco e sou apaixonada por tecnologia! Minha jornada começou com cursos de **HTML, CSS e JavaScript** , explorando desde conceitos básicos até a criação de layouts interativos e responsivos. Hoje, estou me aprofundando em **Full Stack** pela Udemy, aplicando meus conhecimentos em projetos práticos.
 
 
-Além de programar, compartilho meu conhecimento por meio de **mentorias individuais para mulheres iniciantes no front-end**, ajudando a tornar a tecnologia mais inclusiva. Mentorar me fez perceber como é gratificante **ver a evolução delas, acompanhar suas conquistas, ouvir suas dúvidas e ajudá-las a colocar projetos em prática**, além de desenvolver um olhar crítico sobre soluções de front-end.
+Além de programar, compartilho meu conhecimento por meio de **mentorias individuais para iniciantes no front-end**, ajudando a tornar a tecnologia mais inclusiva. Mentorar me fez perceber como é gratificante **ver a evolução deles, acompanhar suas conquistas, ouvir suas dúvidas e ajudá-los a colocar projetos em prática**, além de desenvolver um olhar crítico sobre soluções de front-end.
 
 Estou sempre explorando projetos de diferentes níveis de complexidade e fortalecendo minhas habilidades técnicas e de resolução de problemas. 💻
 
